@@ -3,7 +3,7 @@ from flask_cors import CORS
 
 import openai
 openai.organization = "org-o99a4pdAsNg18j2N62fvItlB"
-openai.api_key = "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"
+openai.api_key = "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"
 
 app = Flask(__name__)
 
